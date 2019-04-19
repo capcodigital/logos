@@ -1,25 +1,29 @@
-# png
+# Presentation Images
 
-## Overview 
+![Capco](assets/capco_logo.jpg)
+
+## Overview
 
 This repo contains a set of standardised png files for easy use in presentations.  The logos cover both financial services companies and technologies.
 
 ## Folders
 
-The logos are organised into the following folders: 
+The logos are organised into the following folders:
 
-* Banks
 * Clouds
 * Databases
 * Frameworks
+* Financial Services
 * Languages
 * Libraries
 * Miscallaneous
 * Montoring
 * Platforms
+* Security
+* Testing
 * Tools
 
-## File Types
+## Logo Types
 
 All files are `.png` file format so that they have a transparent background and can be overlayed on other content.
 
