@@ -6,7 +6,14 @@
 
 This repo contains a set of standardised png files for easy use in presentations.  The logos cover both financial services companies and technologies.
 
-## Folders
+## Contributing
+
+If you would like to contribute to any Capco Digital OSS projects please read:
+
+* [Code of Conduct](https://www.github.com/capcodigital/.github/code_of_conduct.md)
+* [Contributing Guidelines](https://www.github.com/capcodigital/.github/code_of_conduct.md)
+
+## Logo Folders
 
 The logos are organised into the following folders:
 
