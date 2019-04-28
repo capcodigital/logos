@@ -10,8 +10,8 @@ This repo contains a set of standardised png files for easy use in presentations
 
 If you would like to contribute to any Capco Digital OSS projects please read:
 
-* [Code of Conduct](https://www.github.com/capcodigital/.github/code_of_conduct.md)
-* [Contributing Guidelines](https://www.github.com/capcodigital/.github/code_of_conduct.md)
+* [Code of Conduct](https://github.com/capcodigital/.github/blob/master/CODE_OF_CONDUCT.md)
+* [Contributing Guidelines](https://github.com/capcodigital/.github/blob/master/CONTRIBUTING.md)
 
 ## Logo Folders
 
