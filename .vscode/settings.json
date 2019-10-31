@@ -1,14 +1,2 @@
 {
-    "atlascode.jira.workingSite": {
-        "avatarUrl": "https://site-admin-avatar-cdn.prod.public.atl-paas.net/avatars/240/rocket.png",
-        "baseUrlSuffix": "atlassian.net",
-        "id": "6f1feb85-a8a9-4278-a83f-924c160dd156",
-        "name": "ilabs-capco",
-        "scopes": [
-            "manage:jira-project",
-            "write:jira-work",
-            "read:jira-work",
-            "read:jira-user"
-        ]
-    }
 }
