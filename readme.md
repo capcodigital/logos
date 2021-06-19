@@ -37,7 +37,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#requirements">Logo Requirements</a></li>
+    <li><a href="#cloud">Cloud Provider Logos</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -48,8 +49,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This repo contains a set of standardised png files for easy use in presentations.  The logos cover both financial services companies and technologies.
 
@@ -68,36 +67,28 @@ This example shows the use of `pyenv` but other tools can be used to configure t
 
 ```shell
 # create a python virtual env
-pyenv virtualenv 3.9.1 .venv-engineering-framework
+pyenv virtualenv 3.9.1 .venv-presentation-logos
 ```
 
 ### Installation
 
 ```shell
 # clone the repo
-git clone https://github.com/capcodigital/logos.git
+git clone https://github.com/capcodigital/presentation-logos.git
 
-# installs the tooling requirements
-pip install -r requirements.txt
-pre-commit install
+# configures local env
+source .env
 ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
+## <a name="requirements"></a>Logo Requirements
 
-### Logo Types
+* All files are _.png_ file format so that they have a transparent background and can be overlaid on other content.
 
-All files are _.png_ file format so that they have a transparent background and can be overlaid on other content.
+* The square logos are suffixed as __square.png_.  The logos are sized as `200px` x `200px`.
 
-### Square Logos
+* The full logos are suffixed as __full.png_.  The logos are sized at a height of `200px`.
 
-The square logos are suffixed as __square.png_.  The logos are sized as 200px x 200px.
-
-### Full Logos
-
-The full logos are suffixed as __full.png_.  The logos are sized at a height of 200px.
-
-### Cloud
+## <a name="cloud"></a>Cloud Provider Logos
 
 This project only contains the public cloud logos.  It is not intended to replace the cloud providers provided artefacts, links to these can be found below:
 
