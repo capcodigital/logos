@@ -1,13 +1,13 @@
 repos:
 
 - repo: https://github.com/igorshubovych/markdownlint-cli
-  rev: v0.27.1
+  rev: v0.33.0
   hooks:
   - id: markdownlint
     name: markdown linting
 
 - repo: https://github.com/yelp/detect-secrets.git
-  rev: v1.1.0
+  rev: v1.4.0
   hooks:
   -   id: detect-secrets
       name: detect secrets
@@ -15,7 +15,7 @@ repos:
       exclude: .*/go.sum
 
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.0.1
+  rev: v4.4.0
   hooks:
     - id: trailing-whitespace
       name: trailing whitespace
